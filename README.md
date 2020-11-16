@@ -36,7 +36,7 @@ Aircnc is a project that aims to connect companies that want to open spots and d
 
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src=".github/aircnc.png" width="100%">
 </p>
 
 
