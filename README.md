@@ -32,7 +32,7 @@
 
 ## 💻 Project
 
-DevRadar is a project that aims to connect developers close to you who work with the same technologies.
+Aircnc is a project that aims to connect companies that want to open spots and developers looking for a place to talk to devs, get to know the company and work there for a period.
 
 
 <p align="center">
