@@ -5,6 +5,10 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigodsluz/air-cnc.svg">
 
+  <a href="https://www.linkedin.com/in/rodrigodsluz/">
+    <img alt="Made by Rodrigo Duarte" src="https://img.shields.io/badge/made%20by-Rodrigo Duarte-%2304D361">
+  </a>
+
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigodsluz/air-cnc">
   
   <a href="https://github.com/rodrigodsluz/air-cnc/commits/master">
@@ -19,51 +23,117 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#information_source-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
-<br>
+## 💻 Project
+
+DevRadar is a project that aims to connect developers close to you who work with the same technologies.
+
 
 <p align="center">
-  <img alt="Frontend" src=".github/aircnc.png" width="100%">
+  <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## :rocket: Technologies
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+This project was developed with the following technologies:
 
-## 💻 Projeto
-
-O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
+- [Node.js][nodejs]
+- [TypeScript][typescript]
+- [React][reactjs]
+- [React Native][rn]
+- [Expo][expo]
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/semana-omnistack/aircnc.sketch).
+Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
 
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
+Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
 
-## 🤔 Como contribuir
+## :information_source: How to use
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+From your command line:
 
-## :memo: Licença
+### Install API 
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+```bash
+# Clone this repository
+$ git clone https://https://github.com/rodrigodsluz/dev-radar
+
+# Go into the repository
+$ cd dev-radar/backend
+
+# Install dependencies
+$ yarn install
+
+# Run Migrates
+$ yarn typeorm migration:run
+
+# Start server
+$ yarn dev
+
+# running on port 3333
+```
+
+### Install Front-end
+
+```bash
+# Clone this repository
+$ git clone https://https://github.com/rodrigodsluz/dev-radar
+
+# Go into the repository
+$ cd dev-radar/web
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# running on port 3000
+```
+
+### Install Mobile
+
+```bash
+# Clone this repository
+$ git clone https://https://github.com/rodrigodsluz/dev-radar
+
+# Go into the repository
+$ cd dev-radar/mobile
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+
+# If some problem with fonts, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+```
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/rodrigodsluz/dev-radar/blob/master/LICENSE) for details.
 
 ---
 
-Feito com ♥ by rodrigodsluz :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made with ♥ by Rodrigo Duarte :wave: [Get in touch!](https://www.linkedin.com/in/rodrigodsluz/)
+
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
+[yarn]: https://yarnpkg.com/
