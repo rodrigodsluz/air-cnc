@@ -11,7 +11,7 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigodsluz/air-cnc">
   
-  <a href="https://github.com/rodrigodsluz/air-cnc/commits/master">
+  <a href="https://github.com/rodrigodsluz/air-cnc/commits/master">   
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigodsluz/air-cnc.svg">
   </a>
 
