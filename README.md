@@ -50,7 +50,7 @@ This project was developed with the following technologies:
 - [React Native][rn]
 - [Expo][expo]
 
-## 🔖 Layout
+## 🔖 Layout 
 
 You can download the project layout in the format `.sketch` through [this link](.github/AirCnc.sketch).
 
