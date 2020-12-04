@@ -2,7 +2,7 @@
     <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
 </h1>
 
-<p align="center">
+<p align="center">  
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigodsluz/air-cnc.svg">
 
   <a href="https://www.linkedin.com/in/rodrigodsluz/">
