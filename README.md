@@ -33,7 +33,7 @@
 ## 💻 Project
 
 Aircnc is a project that aims to connect companies that want to open spots and developers looking for a place to talk to devs, get to know the company and work there for a period.
-
+  
 
 <p align="center">
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
