@@ -29,7 +29,7 @@
   <a href="#information_source-How-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-
+ 
 ## 💻 Project
 
 Aircnc is a project that aims to connect companies that want to open spots and developers looking for a place to talk to devs, get to know the company and work there for a period.
