@@ -20,7 +20,7 @@
   </a> 
  
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-</p>
+</p> 
 
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
