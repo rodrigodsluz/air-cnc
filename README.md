@@ -7,7 +7,7 @@
 
   <a href="https://www.linkedin.com/in/rodrigodsluz/">
     <img alt="Made by Rodrigo Duarte" src="https://img.shields.io/badge/made%20by-Rodrigo Duarte-%2304D361">
-  </a>
+  </a> 
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigodsluz/air-cnc">
   
